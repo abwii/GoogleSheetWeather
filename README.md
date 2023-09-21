@@ -1,4 +1,6 @@
-Exercice consistant à afficher les prévisions météo de la semaine et de les afficher dans un Google Sheet.
+#Exercice consistant à afficher les prévisions météo de la semaine et de les afficher dans un Google Sheet.
+
+Langage de programmation : Google Script
 
 1 - Récupération de l'information en case A2 (Exemple : "Paris")
 

@@ -1,4 +1,4 @@
-#Exercice consistant à afficher les prévisions météo de la semaine et de les afficher dans un Google Sheet.
+# Exercice consistant à afficher les prévisions météo de la semaine et de les afficher dans un Google Sheet.
 
 Langage de programmation : Google Script
 

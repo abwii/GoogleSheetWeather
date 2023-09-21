@@ -9,3 +9,5 @@ Langage de programmation : Google Script
 3 - Filtrage des données, on ne garde que les températures et les descriptions (Exemple : "24,8 °C / Ensoleillé")
 
 4 - Affichage sur les cases correspondantes
+
+![alt text](asset/image.png)
